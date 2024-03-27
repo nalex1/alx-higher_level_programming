@@ -1,0 +1,2 @@
+#!/usr/bin/python3
+MY IF FUNCION AND ROOP IN PYTHON 
