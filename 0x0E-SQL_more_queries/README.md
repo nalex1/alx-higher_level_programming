@@ -1,0 +1,2 @@
+
+--THIS QUERIE OF SQL
